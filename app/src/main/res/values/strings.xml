@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SharedPreferences Loma</string>
+    <string name="visit_count">Visitas: %1$d</string>
+    <string name="reset_counter">Resetear Contador</string>
+    <string name="user_profile">Perfil de Usuario</string>
+    <string name="dark_mode">Modo Oscuro</string>
+    <string name="name_hint">Nombre</string>
+    <string name="age_hint">Edad</string>
+    <string name="email_hint">Email</string>
+    <string name="save">Guardar</string>
+    <string name="load">Cargar</string>
+    <string name="profile_saved">Perfil guardado exitosamente</string>
+    <string name="profile_loaded">Datos cargados</string>
+    <string name="no_data">No hay datos guardados</string>
+    <string name="complete_fields">Por favor, completa todos los campos</string>
+</resources>
