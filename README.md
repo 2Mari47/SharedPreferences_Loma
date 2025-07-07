@@ -33,9 +33,20 @@ Esta aplicación implementa un sistema completo de SharedPreferences que permite
 
 ### **Pantalla Principal**
 1. **Ver contador**: Observa cómo aumenta automáticamente cada vez que abres la app
+![Captura de pantalla de la aplicación](img/1.png)
+
 2. **Resetear contador**: Presiona "Resetear Contador" para volver a cero
+![Captura de pantalla de la aplicación](img/5.png)
+
 3. **Cambiar tema**: Usa el Switch "Modo Oscuro" para alternar entre temas
+![Captura de pantalla de la aplicación](img/2.png)
+
 4. **Acceder al perfil**: Presiona "Perfil de Usuario" para ir a la segunda pantalla
+![Captura de pantalla de la aplicación](img/3.png)
+
+4. **Cargar**: Carga el perfil que ya se ha registrado.
+![Captura de pantalla de la aplicación](img/4.png)
+
 
 ### **Pantalla de Perfil**
 1. **Guardar datos**: Completa nombre, edad y email, luego presiona "Guardar"
